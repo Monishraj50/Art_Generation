@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 22 10:53:49 2020
-
-@author: Harinath
-"""
-
 import os
 import sys
 import scipy.io
